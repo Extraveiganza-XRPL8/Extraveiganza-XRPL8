@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Extraveiganza-XRPL8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🏫 This is the class account of @Extraveiganza-XRPL8
+- 🔻 We are studying at SMK Telkom Malang Indonesia
+- 💻 We are studying Java
+- 📫 Email us at extraveiganza30@gmail.com
+- 🔰 Feel free to give us advice
+
+<!--��This is the class account of @Extraveiganza-XRPL8��
+��We are studying at SMK Telkom Malang Indonesia��
+��Email us at extraveiganza30@gmail.com��-->
 
 <!---
 Extraveiganza-XRPL8/Extraveiganza-XRPL8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
